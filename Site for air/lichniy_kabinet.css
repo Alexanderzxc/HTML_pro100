@@ -1,0 +1,45 @@
+﻿.dashboard-container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+.user-info {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.logout-button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #FF4136;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.logout-button:hover {
+    background-color: #d32f2f;
+}
+
+.bookings .booking {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.phone {
+    margin-bottom: 20px;
+}
