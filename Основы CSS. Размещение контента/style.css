@@ -1,0 +1,40 @@
+.bg{
+    position: absolute;
+    left: 35%;
+    top: 23%;
+}
+.super{
+    position: absolute;
+    left: 60%;
+    bottom: 283px;
+}
+.planet1{
+    position: absolute;
+    left:45%;
+    top: 230px;
+}
+.planet2{
+    position: absolute;
+    left: 38%;
+    top: 30%;
+}
+.planet3{
+    position: absolute;
+    left: 43%;
+    top: 40%;
+}
+.spaceship{
+    position: absolute;
+    left: 43%;
+    top: 42%;
+}
+.ufo{
+    position: absolute;
+    left: 40%;
+    top: 54%;
+}
+.asteroid{
+    position: absolute;
+    left: 56%;
+    top: 30%;
+}

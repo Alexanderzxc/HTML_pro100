@@ -1,0 +1,171 @@
+﻿body {
+    width: 1440px;
+    margin: auto;
+}
+header {
+    margin: auto;
+    width: 1248px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head_text
+{
+    font-family: "Allerta Stencil", sans-serif;
+    width: 156px;
+    height: 40px;
+    color: rgba(0, 0, 0, 1);
+}
+.nav_text
+{
+    
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    color: rgba(112, 112, 112, 1);
+    margin: 15px;
+}
+.nav_img
+{
+    margin-left: 25px;
+}
+.body{
+    margin: auto;
+    width: 1248px;
+    height: 646px;
+    background-image: url("Img 01.png");
+}
+.body_text {
+    padding-top: 230px;
+    font-size: 33px;
+    padding-left: 50px;
+    font-family: "DM Sans", sans-serif;
+    color: rgba(255, 255, 255, 1);
+}
+.header_price{
+    font-size: 26px;
+    font-family: "DM Sans", sans-serif;
+    color: rgba(255, 255, 255, 1);
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+.body_img{
+    margin-left: 50px;
+    width: 193px;
+    height: 53px;
+    background-image: url("Rectangle 3.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #cdcdcd;
+    font-family: "DM Sans",sans-serif;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+    border: 0;
+    transition: 0.4s;
+}
+
+.body_img:hover{
+    background-color: rgba(255,255,255,0.4);
+}
+
+.slider{
+    background: url("Ellipse 14.png") no-repeat;
+    width: 9px;
+    height: 12px;
+    transition: 0.4s;
+    border: 0;
+    margin-left: 5px;
+}
+.slider:hover{
+    background: url("Ellipse 10.png") no-repeat;
+    width: 18px;
+    height: 18px;
+}
+
+
+.nav_pot{
+    padding-left: 570px;
+    padding-top: 200px;
+}
+
+.headder_shop{
+    margin-top: 70px;
+}
+
+.headder_text_h1{
+    font-family: "DM Sans", sans-serif;
+    font-size: 33px;
+}
+.headder_text{
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(161, 138, 104, 1);
+}
+.shop{
+    margin: auto;
+    width: 1350px;
+    padding-top: 20px;
+}
+
+.ShopElement{
+    font-family: "DM Sans", sans-serif;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    transition: 0.4s;
+}
+.ShopElement:hover{
+    background-image: url("Rectangle 14.png");
+}
+.price_text{
+    color: rgba(161, 138, 104, 1);
+}
+.lineimage{
+    padding-top: 150px;
+    width: 1248px;
+    margin-left: 50px
+}
+
+.emailget{
+    position: absolute;
+    padding-left: 1010px;
+    padding-top: 8px;
+    color: rgba(112, 112, 112, 1);
+}
+.top_footer {
+    font-family: "DM Sans", sans-serif;
+}
+.emailimage{
+    position: absolute;
+    padding-left: 1010px;
+    padding-top: 40px;
+}
+.terms{
+    width: 550px;
+    margin-left: 100px;
+    padding-top: 20px;
+    display: flex;
+    
+    justify-content: space-between;
+    float: left;
+}
+.strelka{
+    position: absolute;
+    padding-left: 1380px;
+    padding-top: 23px;
+}
+.shelly{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 100px;
+    color:rgba(112, 112, 112, 1);
+}
+.footer_icons{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 1230px;
+}
+.footer_icon_images{
+    padding-left: 23px;
+}
