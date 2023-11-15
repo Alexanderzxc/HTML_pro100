@@ -1,0 +1,28 @@
+﻿.kub1
+{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    position: relative;
+
+}
+.kub2{
+    background-color: #1e7e34;
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    font-size: 30px;
+    color: white;
+}
+.kub3{
+    background-color: #c82333;
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    top: -10px;
+    left: 150px;
+    font-size: 30px;
+    color: white;
+}

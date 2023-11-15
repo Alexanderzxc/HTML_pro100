@@ -1,0 +1,44 @@
+﻿body{
+    width: 1600px;
+}
+
+.polosa
+{
+    margin-left: 150px;
+    width: 1600px;
+    height: 200px;
+    background-color: aqua;
+}
+.polosa_text{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.examples{
+    margin-top: 50px;
+    width: 1600px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_first_example{
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.first_example{
+    width: 500px;
+    height: 640px;
+    background-color: blueviolet;
+}
+.second_example{
+    width: 500px;
+    height: 640px;
+    background-color: blueviolet;
+}
+.third_example{
+    width: 500px;
+    height: 640px;
+    background-color: blueviolet;
+}
