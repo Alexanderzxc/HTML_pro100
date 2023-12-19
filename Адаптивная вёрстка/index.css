@@ -1,0 +1,143 @@
+.main{
+    width: 1120px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50% 50%;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    padding-left: 360px;
+    height: 1080px
+}
+
+body{
+    width: 1600px;
+    background-color: #cccccc;
+
+}
+.first_picture{
+    position: absolute;
+    margin-bottom: 100px;
+    z-index: 1;
+}
+.text_first_picture{
+    font-family: "Roboto Light", sans-serif;
+    position: relative;
+    z-index: 5;
+    color: #FFFFFF;
+    padding-top: 370px;
+    padding-left: 60px;
+}
+.item1{
+    width: 500px;
+    grid-area: 1 / 3 / 1 / 1;
+    height: 540px;
+}
+.item2{
+    height: 540px;
+}
+.randomtext1{
+    opacity: 50%;
+    font-size:14px;
+}
+.randomtext2{
+    font-size:34px;
+}
+.second_picture{
+    position: absolute;
+    z-index: 1;
+}
+.text_second_picture{
+    position: relative;
+    padding-top: 260px;
+    padding-left:20px;
+    font-family: "Roboto Light", sans-serif;
+    z-index: 3;
+}
+.randomtext3{
+    font-size:13px;
+    color: #818181;
+}
+.randomtext4{
+    font-size:24px;
+    color: #1D1D1D;
+}
+.real_second_picture{
+    position: absolute;
+    z-index: 2;
+}
+.third_picture{
+    position: absolute;
+    z-index: 1;
+}
+.real_third_picture{
+    position: absolute;
+    z-index: 2;
+}
+.text_third_picture{
+     position: relative;
+     padding-top: 260px;
+     padding-left:20px;
+     font-family: "Roboto Light", sans-serif;
+     z-index: 3;
+}
+.randomtext5{
+    font-size:13px;
+    color: #818181;
+}
+.randomtext6{
+    font-size:24px;
+    color: #1D1D1D;
+}
+
+.four_picture{
+    position: absolute;
+    z-index: 1;
+}
+.real_four_picture{
+    position: absolute;
+    z-index: 2;
+}
+.text_four_picture{
+    position: relative;
+    padding-top: 260px;
+    padding-left:20px;
+    font-family: "Roboto Light", sans-serif;
+    z-index: 3;
+}
+.randomtext7{
+    font-size:13px;
+    color: #818181;
+}
+.randomtext8 {
+    font-size:24px;
+    color: #1D1D1D;
+}
+.fifth_picture{
+    position: absolute;
+    z-index: 1;
+}
+.real_fifth_picture{
+    position: absolute;
+    z-index: 2;
+}
+.text_fifth_picture{
+    position: relative;
+    padding-top: 260px;
+    padding-left:20px;
+    font-family: "Roboto Light", sans-serif;
+    z-index: 3;
+}
+.randomtext9{
+    font-size:13px;
+    color: #818181;
+}
+.randomtext10 {
+    font-size:24px;
+    color: #1D1D1D;
+}
+header{
+    height: 100px;
+}
+footer{
+    height: 100px;
+}
